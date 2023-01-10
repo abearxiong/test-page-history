@@ -1,0 +1,1 @@
+import{d as n,c as s,u as c,o as a,a as _,b as u,_ as l}from"./index-6fbfd8a1.js";const p=n({__name:"About",setup(r){s(()=>23);const e=c();return a(()=>{const{state:o}=e.value,{count:t}=o;console.log("location about count",t)}),(o,t)=>(u(),_("div",null,"About"))}});const i=l(p,[["__scopeId","data-v-15663715"]]);export{i as default};

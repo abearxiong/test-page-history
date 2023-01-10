@@ -1,0 +1,1 @@
+import{d as c,c as n,u as s,o as a,a as _,b as u,_ as l}from"./index-6fbfd8a1.js";const m=c({__name:"Home",setup(p){n(()=>23);const t=s();return a(()=>{const{state:o}=t.value,{count:e}=o;console.log("location home count",e)}),(o,e)=>(u(),_("div",null,"Home"))}});const d=l(m,[["__scopeId","data-v-6484a5cb"]]);export{d as default};
