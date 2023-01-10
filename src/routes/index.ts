@@ -15,5 +15,11 @@ export const routes = createRouter({
         return import('../views/About.vue');
       },
     },
+    {
+      path: '/:catchAll(.*)',
+      component: () => {
+        return import('../views/404.vue');
+      },
+    },
   ],
 });
